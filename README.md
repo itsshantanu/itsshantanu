@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFKPjy0zg8/NhQHbS0j1SMoTgaZL5IChw/view)]
+![MasterHead](https://github.com/itsshantanu/itsshantanu/blob/main/GitHub%20banner.png)
 <h1 align="center">Hi 👋, I'm Shantanu</h1>
 <h3 align="center">A passionate Blockchain Developer</h3>
 
