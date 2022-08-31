@@ -28,8 +28,9 @@
 
 <br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsshantanu&show_icons=true&locale=en&layout=compact" alt="itsshantanu" /></p>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsshantanu&show_icons=true&locale=en&layout=compact" alt="itsshantanu" />
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itsshantanu&show_icons=true&locale=en" alt="itsshantanu" /></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsshantanu&show_icons=true&locale=en" alt="itsshantanu" />
+</div>
 
